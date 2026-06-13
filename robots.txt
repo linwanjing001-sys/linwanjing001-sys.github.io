@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://linwanjing001-sys.github.io/sitemap.xml

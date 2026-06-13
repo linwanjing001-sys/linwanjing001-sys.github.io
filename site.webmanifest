@@ -1,0 +1,16 @@
+{
+  "name": "林万劲 | AI 解决方案专家",
+  "short_name": "林万劲",
+  "description": "企业 AI 转型、AI 解决方案设计、项目推进与文章证据系统。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f7f4",
+  "theme_color": "#f7f7f4",
+  "icons": [
+    {
+      "src": "/assets/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}
